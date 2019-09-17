@@ -1,4 +1,4 @@
-# Occupation-prediction-based-on-Linkedin-Data-
+# Occupation prediction based on Linkedin Data
 
 To reproduce our project result, please follow the following steps:
 
